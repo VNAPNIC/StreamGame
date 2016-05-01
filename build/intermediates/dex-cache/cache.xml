@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_af4c5d800e3f40cfb913b0816c7b991609ca1cf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.0_6aaa9174904dd626d3bd36015617d034221102d8.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.github.machinarius\preferencefragment\0.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="648463e00c6883d01b6c11a6781776203334b6fc">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.github.machinarius-preferencefragment-0.1.1_6d5378ab0a3013c4b084568dc591a779d76dcfc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.jakewharton.hugo\hugo-annotations\1.1.0\e67a622a9034c9e995750528180b8e19434f6e02\hugo-annotations-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e67a622a9034c9e995750528180b8e19434f6e02">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\hugo-annotations-1.1.0_e0ee34fc6aa117590d9471712a40df626389af27.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-jackson\1.8.0\a4ea622052d8c8b6a6cb1112619bedaaa99798b6\converter-jackson-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4ea622052d8c8b6a6cb1112619bedaaa99798b6">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\converter-jackson-1.8.0_3439d5e1bc0ccb7fc0d5b27d22b5db85402ed11f.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\picasso-2.4.0_376e32adcd6e5c2a0e819090c4428cf7b6220311.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_376eba5a8c18f17f8525c811a25fa6b9343a773a.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e73abfdba73fcbd95892e3d01b2b5cdf9c8b96bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.3\4cb3dbb0c2f75b51aa7543c53252989785a0c609\jackson-core-2.4.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4cb3dbb0c2f75b51aa7543c53252989785a0c609">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\jackson-core-2.4.3_65be181e13a5925ca2b16bba2a7eda00bd1eccc9.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_81f8be099e352025f57df1a9b95e6fb0babfacb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\retrofit-1.8.0_657f046f3d5b42ac1bfc55e7b0881b518d785cd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.3\feff63199be7b8f495c2f3e2096dcb6bd5e5b0b3\jackson-databind-2.4.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="feff63199be7b8f495c2f3e2096dcb6bd5e5b0b3">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\jackson-databind-2.4.3_c62b9838fa760b0a8fe03acb2aa6cbfc6156314e.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\gson-2.3_6c48b040867d28f694b04f0c22658d3f132f1844.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\butterknife-6.0.0_080add073df7e10957649db35420361c5b6303f1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25bac7a5db190df4dabc9e282b0cb57d400c415b">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.jakewharton.hugo-hugo-runtime-1.1.0_82a9203adf0413ea637c8450919036e2fe9a205e.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\jsr305-3.0.0_162a0ecc789504b8d3a635c15cc867787f35c2a0.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_2b4a366f7cdd99518155cd06bb38dd9b9bce6fc6.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\de.psdev.licensesdialog\licensesdialog\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3f31c89bca185f6993db3d1c5bf90e7d4e331da">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\de.psdev.licensesdialog-licensesdialog-1.6.0_02f876cb5a5730f3f50dfce5cc887f415423dda4.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.2.1\66f13681add50ca9e4546ffabafaaac7645db3cf\commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\commons-lang3-3.2.1_a027dcdcb78a88c36892eeafc4f815a91fc64f19.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_ede8183146ce3823fcc0b13ddb0fe29f55116e0c.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_a15f57f518ef02a5d135d52b999ff570fd2354fe.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_58cb19071a6b094c18e726a26cbfb7f408fd75ec.jar" />
+    </item>
+    <item
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_cb08fd16f94e2a788c63d7d4e6c70cfb2d29d315.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\StreamGame\circleimageview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f5936c70e2f08784649a23792d14d455b8663c14">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\StreamGame-circleimageview-unspecified_b8a87e32159ce165578272edf0db2f4145d7a9b4.jar" />
+    </item>
+    <item
+        jar="F:\GitHub_NamBH\StreamGame\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_26c01b05b252f51613083b67e4f193b2e6609d8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\vn apnic\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.7.4\e49a5c0acee8fd66225dc1d031692d132323417f\aspectjrt-1.7.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e49a5c0acee8fd66225dc1d031692d132323417f">
+        <dex dex="F:\GitHub_NamBH\StreamGame\build\intermediates\pre-dexed\debug\aspectjrt-1.7.4_8c040b9829c3c95ee6706f71018e3a11ad87df8c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- General -->
+    <string name="app_name">Stream games</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6092828069522249/9017882817</string>
+    <!-- Tab title -->
+    <string name="stream_title">Danh sách game</string>
+    <string name="fatureds_title">Đặc sắc</string>
+    <string name="setting_title">Chọn chất lượng video</string>
+
+    <!-- Navigation -->
+    <string name="navigation_open">Mở</string>
+    <string name="navigation_close">Đóng</string>
+    <string-array name="navigation">
+        <item>@string/game_title_fatureds</item>
+        <!--<item>@string/favorites_title</item>-->
+        <item>@string/game_title</item>
+        <item>@string/preference_title</item>
+    </string-array>
+
+    <!-- ActionBarItems -->
+    <string name="action_refresh">Làm mới</string>
+    <string name="action_clear">Xóa</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_search_hint">Tìm kiếm stream</string>
+    <string name="action_route" />
+
+    <!-- ErrorMessages -->
+    <string name="error_unexpected">Một unicorn đã chặn các yêu cầu, xin vui lòng liên hệ với các nhà phát triển. </string>
+    <string name="error_connection_error_title">Lỗi connexion</string>
+    <string name="error_connection_error_message">xảy ra lỗi kết nối. Xin vui lòng kết nối với một EDGE, 3G hoặc mạng Wifi.</string>
+    <string name="error_data_error_title">Dữ liệu không chính xác</string>
+    <string name="error_data_error_message">Dữ liệu không hợp lệ</string>
+    <string name="error_stream_offline">Stream offline :(</string>
+    <string name="error_no_player_title">Phần mềm video player không được cài đặt</string>
+    <string name="error_no_player_message">Để chạy video bạn cần cài đặt một máy nghe nhạc , video bên ngoài, như VLC hoặc MX Player ...</string>
+    <string name="error_internal_player">Không thể sử dụng internal Player</string>
+    <string name="error_no_archived_videos">Twitch thay đổi API, video hiện đang bị lỗi:(</string>
+
+    <!-- DialogMessages -->
+    <string name="dialog_error_title">lỗi</string>
+    <string name="dialog_button_retry">Thử lại</string>
+    <string name="dialog_progress_title">Tải</string>
+    <string name="dialog_progress_message">Đang tải trong tiến trình ...</string>
+    <string name="dialog_username_title">Tên đăng nhập</string>
+    <string name="dialog_playlist_title">Video Playlist</string>
+    <string name="dialog_stream_quality_title">Chọn chất lượng video</string>
+    <string name="dialog_stream_quality_default_value">Medium</string>
+    <string name="toast_quality">Chất lượng video %s</string>
+    <!-- Favorites -->
+    <string name="favorites_title">Mục yêu thích</string>
+
+    <!-- Channel -->
+    <string name="channel_name">Tên kênh</string>
+    <string name="channel_name_empty">No username defined\n\n<b>[Settings → Username]</b></string>
+    <string name="channel_stream">Stream</string>
+    <string name="channel_thumbnail">Thumbnail</string>
+    <string name="channel_watch_stream">Watch Stream</string>
+    <string name="channel_archives">Archives</string>
+    <string name="channel_status">Status</string>
+    <string name="channel_logo">Logo</string>
+    <string name="channel_online">Online</string>
+    <string name="channel_offline">Offline</string>
+    <string name="channel_unknown">không xác định</string>
+    <string name="channel_archives_empty">Không có video lưu trữ</string>
+    <string name="channel_detail_empty">Chọn kênh để xem chi tiết</string>
+
+    <!-- Stream -->
+    <string name="stream_viewers">Người xem</string>
+
+    <!-- Search -->
+    <string name="search_title">Tìm kiếm</string>
+    <string name="search_no_result">Không tìm thấy Stream</string>
+
+    <!-- Playlist -->
+    <string name="playlist_part"><u>PART</u></string>
+    <string name="playlist_slash">/</string>
+
+    <!-- Settings -->
+    <string name="preference_title">Cài đặt</string>
+    <string name="preference_title_about">Thông tin</string>
+    <string name="preference_internal_player">Sử dụng các trương trình phát nội bộ</string>
+    <string name="preference_licenses">Giấy phép nguồn mở</string>
+
+    <!-- Game -->
+    <string name="game_title_fatureds">Đặt sắc</string>
+    <string name="game_title">Danh sách game</string>
+    <string name="game_box">Box</string>
+    <string name="live_stream_title">Live Stream</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dialog_messenger">Bạn muốn thoát ứng dụng.?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="licenses">Thông tin</string>
+
+
+</resources>

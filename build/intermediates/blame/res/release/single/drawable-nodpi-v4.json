@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_channel_logo_medium.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\default_channel_logo_medium.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\logo.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_banner.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\default_banner.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_game_box_medium.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\default_game_box_medium.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\play_now.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\play_now.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_archive_thumbnail.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\default_archive_thumbnail.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\twitch_logo_white.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\twitch_logo_white.png"
+    },
+    {
+        "merged": "F:\\GitHub_NamBH\\StreamGame\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_channel_logo_small.png",
+        "source": "F:\\GitHub_NamBH\\StreamGame\\src\\main\\res\\drawable-nodpi\\default_channel_logo_small.png"
+    }
+]

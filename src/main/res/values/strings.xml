@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">Stream games</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6092828069522249/9017882817</string>
+    <!-- Tab title -->
+    <string name="stream_title">Games List</string>
+    <string name="fatureds_title">Featureds</string>
+    <string name="setting_title">Video quality choice</string>
+
+    <!-- Navigation -->
+    <string name="navigation_open">Open</string>
+    <string name="navigation_close">Close</string>
+    <string-array name="navigation">
+        <item>@string/game_title_fatureds</item>
+        <!--<item>@string/favorites_title</item>-->
+        <item>@string/game_title</item>
+        <item>@string/preference_title</item>
+    </string-array>
+
+    <!-- ActionBarItems -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_search">Search</string>
+    <string name="action_search_hint">Search stream</string>
+    <string name="action_route" />
+
+    <!-- ErrorMessages -->
+    <string name="error_unexpected">A unicorn has blocked the request, please contact the developer.</string>
+    <string name="error_connection_error_title">Connexion error</string>
+    <string name="error_connection_error_message">A connection error occurred. Please verify
+        that you are connected to an EDGE, 3G or Wifi network.
+    </string>
+    <string name="error_data_error_title">Incorrect data</string>
+    <string name="error_data_error_message">Received data invalid</string>
+    <string name="error_stream_offline">Stream offline :(</string>
+    <string name="error_no_player_title">No video player installed</string>
+    <string name="error_no_player_message">In order to play videos you need
+        to install an external video player, like VLC or MX Player.</string>
+    <string name="error_internal_player">Unable to use internal Player</string>
+    <string name="error_no_archived_videos">Twitch changed its API, videos are currently broken :(</string>
+
+    <!-- DialogMessages -->
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_button_retry">Retry</string>
+    <string name="dialog_progress_title">Loading</string>
+    <string name="dialog_progress_message">Loading in progress…</string>
+    <string name="dialog_username_title">Username</string>
+    <string name="dialog_playlist_title">Video Playlist</string>
+    <string name="dialog_stream_quality_title">Video quality choice</string>
+    <string name="dialog_stream_quality_default_value">Medium</string>
+    <string name="toast_quality">Quality %s</string>
+
+    <string-array name="dialog_stream_quality_entries_values" translatable="false">
+        <item>Mobile</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Source</item>
+    </string-array>
+
+    <string-array name="dialog_stream_quality_entries" translatable="false">
+        <item>Mobile</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Source</item>
+    </string-array>
+
+    <!-- Favorites -->
+    <string name="favorites_title">Favorites</string>
+
+    <!-- Channel -->
+    <string name="channel_name">Channel-Name</string>
+    <string name="channel_name_empty">No username defined\n\n<b>[Settings → Username]</b></string>
+    <string name="channel_stream">Stream</string>
+    <string name="channel_thumbnail">Thumbnail</string>
+    <string name="channel_watch_stream">Watch Stream</string>
+    <string name="channel_archives">Archives</string>
+    <string name="channel_status">Status</string>
+    <string name="channel_logo">Logo</string>
+    <string name="channel_online">Online</string>
+    <string name="channel_offline">Offline</string>
+    <string name="channel_unknown">Unknown</string>
+    <string name="channel_archives_empty">No archived videos</string>
+    <string name="channel_detail_empty">Select a channel for details</string>
+
+    <!-- Stream -->
+    <string name="stream_viewers">Viewers</string>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_no_result">No streams found</string>
+
+    <!-- Playlist -->
+    <string name="playlist_part"><u>PART</u></string>
+    <string name="playlist_slash">/</string>
+
+    <!-- Settings -->
+    <string name="preference_title">Settings</string>
+    <string name="preference_title_about">About</string>
+    <string name="preference_internal_player">Use the internal Player</string>
+    <string name="preference_licenses">Licenses</string>
+
+    <!-- Game -->
+    <string name="game_title_fatureds">Featureds</string>
+    <string name="game_title">Games List</string>
+    <string name="live_stream_title">Live Stream</string>
+    <string name="game_box">Box</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dialog_messenger">Are you sure you want to exit the application?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="licenses">About</string>
+
+</resources>

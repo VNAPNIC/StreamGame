@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="navigation">
+        <item>@string/game_title_fatureds</item>
+        <!--<item>@string/favorites_title</item>-->
+        <item>@string/game_title</item>
+        <item>@string/preference_title</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="action_clear">Xóa</string>
+    <string name="action_refresh">Làm mới</string>
+    <string name="action_route"/>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_search_hint">Tìm kiếm stream</string>
+    <string name="app_name">Stream games</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6092828069522249/9017882817</string>
+    <string name="channel_archives">Archives</string>
+    <string name="channel_archives_empty">Không có video lưu trữ</string>
+    <string name="channel_detail_empty">Chọn kênh để xem chi tiết</string>
+    <string name="channel_logo">Logo</string>
+    <string name="channel_name">Tên kênh</string>
+    <string name="channel_name_empty">No username defined\n\n<b>[Settings → Username]</b></string>
+    <string name="channel_offline">Offline</string>
+    <string name="channel_online">Online</string>
+    <string name="channel_status">Status</string>
+    <string name="channel_stream">Stream</string>
+    <string name="channel_thumbnail">Thumbnail</string>
+    <string name="channel_unknown">không xác định</string>
+    <string name="channel_watch_stream">Watch Stream</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Nếu sự cố còn tiếp diễn, vui lòng liên hệ với nhà phát triển để được trợ giúp."</string>
+    <string name="dialog_button_retry">Thử lại</string>
+    <string name="dialog_error_title">lỗi</string>
+    <string name="dialog_messenger">Bạn muốn thoát ứng dụng.?</string>
+    <string name="dialog_playlist_title">Video Playlist</string>
+    <string name="dialog_progress_message">Đang tải trong tiến trình ...</string>
+    <string name="dialog_progress_title">Tải</string>
+    <string name="dialog_stream_quality_default_value">Medium</string>
+    <string name="dialog_stream_quality_title">Chọn chất lượng video</string>
+    <string name="dialog_username_title">Tên đăng nhập</string>
+    <string name="error_connection_error_message">xảy ra lỗi kết nối. Xin vui lòng kết nối với một EDGE, 3G hoặc mạng Wifi.</string>
+    <string name="error_connection_error_title">Lỗi connexion</string>
+    <string name="error_data_error_message">Dữ liệu không hợp lệ</string>
+    <string name="error_data_error_title">Dữ liệu không chính xác</string>
+    <string name="error_internal_player">Không thể sử dụng internal Player</string>
+    <string name="error_no_archived_videos">Twitch thay đổi API, video hiện đang bị lỗi:(</string>
+    <string name="error_no_player_message">Để chạy video bạn cần cài đặt một máy nghe nhạc , video bên ngoài, như VLC hoặc MX Player ...</string>
+    <string name="error_no_player_title">Phần mềm video player không được cài đặt</string>
+    <string name="error_stream_offline">Stream offline :(</string>
+    <string name="error_unexpected">Một unicorn đã chặn các yêu cầu, xin vui lòng liên hệ với các nhà phát triển. </string>
+    <string name="fatureds_title">Đặc sắc</string>
+    <string name="favorites_title">Mục yêu thích</string>
+    <string name="game_box">Box</string>
+    <string name="game_title">Danh sách game</string>
+    <string name="game_title_fatureds">Đặt sắc</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="licenses">Thông tin</string>
+    <string name="live_stream_title">Live Stream</string>
+    <string name="navigation_close">Đóng</string>
+    <string name="navigation_open">Mở</string>
+    <string name="playlist_part"><u>PART</u></string>
+    <string name="playlist_slash">/</string>
+    <string name="preference_internal_player">Sử dụng các trương trình phát nội bộ</string>
+    <string name="preference_licenses">Giấy phép nguồn mở</string>
+    <string name="preference_title">Cài đặt</string>
+    <string name="preference_title_about">Thông tin</string>
+    <string name="search_no_result">Không tìm thấy Stream</string>
+    <string name="search_title">Tìm kiếm</string>
+    <string name="setting_title">Chọn chất lượng video</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stream_title">Danh sách game</string>
+    <string name="stream_viewers">Người xem</string>
+    <string name="toast_quality">Chất lượng video %s</string>
+</resources>
